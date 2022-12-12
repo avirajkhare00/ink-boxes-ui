@@ -86,6 +86,48 @@ export default function InkBoxes() {
                 <h2 className={styles.title}>
                     Coming Soon
                 </h2>
+                <Card
+                    style={{
+                        width: '18rem'
+                    }}
+                >
+                    <img
+                        alt="NFT-Marketplace"
+                        src="https://i.imgur.com/Nn6W8aE.jpeg"
+                    />
+                    <CardBody>
+                        <CardTitle tag="h5">
+                            NFT Marketplace
+                        </CardTitle>
+                        <CardText>
+                            This ink box contains NFT Marketplace smart contract along with the UI.
+                        </CardText>
+                        <Button disabled>
+                            Download
+                        </Button>
+                    </CardBody>
+                </Card>
+                <Card
+                    style={{
+                        width: '18rem'
+                    }}
+                >
+                    <img
+                        alt="Decentralized-Ecommerce"
+                        src="https://i.imgur.com/Nn6W8aE.jpeg"
+                    />
+                    <CardBody>
+                        <CardTitle tag="h5">
+                            Decentralized Ecommerce
+                        </CardTitle>
+                        <CardText>
+                            This ink box contains decentralized ecommerce smart contract along with the UI.
+                        </CardText>
+                        <Button disabled>
+                            Download
+                        </Button>
+                    </CardBody>
+                </Card>
             </main>
         </div>
     )
