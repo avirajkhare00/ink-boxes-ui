@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Ink boxes are a collection of helpful Ink smart contract boilerplates along with it's frontend. It will already have polkadot.js library using which frontend can talk with the smart contract deployed. Got inspired by truffle boxes on how easily one can spin up the boilerplate code in no time.
+          Ink boxes are a collection of helpful Ink smart contract boilerplates along with it&apos;s frontend. It will already have polkadot.js library using which frontend can talk with the smart contract deployed. Got inspired by truffle boxes on how easily one can spin up the boilerplate code in no time.
           <br />
           Click here to explore Ink Boxes.
         </p>
