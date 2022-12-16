@@ -20,6 +20,8 @@ export default function Home() {
           Ink boxes are a collection of helpful Ink smart contract boilerplates along with it&apos;s frontend. It will already have polkadot.js library using which frontend can talk with the smart contract deployed. Got inspired by truffle boxes on how easily one can spin up the boilerplate code in no time.
           <br />
           Click <a href='../ink-boxes'>here</a> to explore Ink Boxes.
+          <br />
+          Click <a href='https://github.com/avirajkhare00/ink-boxes'>here</a> to raise PR for a new ink box.
         </p>
       </main>
     </div>
