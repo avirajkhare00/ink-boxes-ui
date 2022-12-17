@@ -1,4 +1,4 @@
-describe('empty spec', () => {
+describe('Ink Boxes', () => {
   it('visits the webapp', () => {
     cy.visit('http://localhost:3000/');
   });
