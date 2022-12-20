@@ -41,7 +41,7 @@ export default function InkBoxes() {
                                 This ink box contains flipper smart contract along with the UI.
                             </CardText>
                             <Button>
-                                <a href='/flipper.zip' download='flipper.zip'>Download</a>
+                                <a href='/flipper.zip' download='flipper.zip' style={{color: "white"}}>Download</a>
                             </Button>
                         </CardBody>
                     </Card>
@@ -62,7 +62,7 @@ export default function InkBoxes() {
                                 This ink box contains ERC-20 smart contract along with the UI.
                             </CardText>
                             <Button>
-                                <a href='/erc20.zip' download='erc20.zip'>Download</a>
+                                <a href='/erc20.zip' download='erc20.zip' style={{color: "white"}}>Download</a>
                             </Button>
                         </CardBody>
                     </Card>
@@ -83,7 +83,7 @@ export default function InkBoxes() {
                                 This ink box contains ERC-721 smart contract along with the UI.
                             </CardText>
                             <Button>
-                                <a href='/erc721.zip' download='erc721.zip'>Download</a>
+                                <a href='/erc721.zip' download='erc721.zip' style={{color: "white"}}>Download</a>
                             </Button>
                         </CardBody>
                     </Card>
